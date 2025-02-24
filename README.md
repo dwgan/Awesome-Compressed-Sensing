@@ -21,8 +21,20 @@ Sparsity-Cognizant Total Least-Squares for Perturbed Compressive Sampling [Paper
 
 ## Deep Compressed Sensing
 
+(CVPR 2016) ReconNet: Non-Iterative Reconstruction of Images from Compressively Sensed
+Measurements [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.pdf) [Code](https://github.com/Chinmayrane16/ReconNet-PyTorch)
+![Stars](https://img.shields.io/github/stars/Chinmayrane16/ReconNet-PyTorch)
+
+iPiano-Net: Nonconvex optimization inspired multi-scale reconstruction network for compressed sensing [Paper](https://doi.org/10.1016/j.image.2020.115989) [Code]
+
+From Patch to Pixel: A Transformer-Based Hierarchical Framework for Compressive Image Sensing [Paper](https://ieeexplore.ieee.org/document/10049603) [Code](https://github.com/ICSResearch/TCS-Net)
+![Stars](https://img.shields.io/github/stars/ICSResearch/TCS-Net)
+
 (TIP 2022) TransCS: A Transformer-Based Hybrid Architecture for Image Compressed Sensing [Paper](https://ieeexplore.ieee.org/document/9934025/) [Code](https://github.com/ICSResearch/TransCS)
 ![Stars](https://img.shields.io/github/stars/ICSResearch/TransCS)
+
+(TPAMI 2022) TransCL: Transformer Makes Strong and Flexible Compressive Learning [Paper](https://arxiv.org/abs/2207.11972) [Code](https://github.com/MC-E/TransCL/)
+![Stars](https://img.shields.io/github/stars/MC-E/TransCL)
 
 (CVPR 2018) ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image
 Compressive Sensing [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.pdf) [Code](https://github.com/jianzhangcs/ISTA-Net-PyTorch)
