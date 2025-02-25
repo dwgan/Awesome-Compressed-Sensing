@@ -1,4 +1,4 @@
-# Awesome-Compressed-Sensing
+# Awesome Compressed Sensing
 
 This repository compiles a list of papers related to Compressed Sensing.
 
